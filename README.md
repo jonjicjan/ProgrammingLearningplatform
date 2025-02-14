@@ -2,7 +2,7 @@
 
 LearnHub is a React-based web application designed to provide users with an intuitive platform for learning and knowledge sharing. The application leverages Supabase for user authentication and data management and is deployed on Netlify for seamless hosting and continuous deployment.
 
-Table of Contents
+#Table of Contents
 Features
 Demo
 Installation
@@ -11,14 +11,18 @@ Dependencies
 Contributing
 License
 Features
-User Authentication: Secure sign-up and login functionalities powered by Supabase.
+
+#User Authentication:
+
+Secure sign-up and login functionalities powered by Supabase.
 Course Management: Users can browse, enroll in, and track progress in various courses.
 Responsive Design: Optimized for both desktop and mobile devices.
 Real-time Updates: Immediate reflection of changes using Supabase's real-time capabilities.
 Demo
 Experience LearnHub live: LearnHub Demo
 
-Installation
+#Installation
+
 To set up the project locally:
 
 Clone the Repository:
@@ -51,7 +55,8 @@ Edit
 npm start
 The application will be accessible at http://localhost:3000.
 
-Usage
+#Usage
+
 Sign Up / Log In: Create a new account or log in with existing credentials.
 Browse Courses: Explore available courses and enroll in those of interest.
 Track Progress: Monitor your learning journey and complete courses at your own pace.
