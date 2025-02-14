@@ -3,14 +3,14 @@
 LearnHub is a React-based web application designed to provide users with an intuitive platform for learning and knowledge sharing. The application leverages Supabase for user authentication and data management and is deployed on Netlify for seamless hosting and continuous deployment.
 
 #Table of Contents :
-Features
-Demo
-Installation
-Usage
-Dependencies
-Contributing
-License
-Features
+Features ,
+Demo ,
+Installation ,
+Usage ,
+Dependencies ,
+Contributing ,
+License ,
+Features.
 
 #User Authentication:
 
